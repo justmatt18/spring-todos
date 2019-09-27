@@ -15,3 +15,5 @@ Technologies:
 * Java 8
 * Spring Boot
 * Postman -> to test your API
+
+Testing commit with emoji 📇    
